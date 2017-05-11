@@ -3,13 +3,9 @@ spring-cloud-starter
 
 Spring cloud使用的各种示例，以最简单、最实用为标准
 
-spring-boot-starter
-===========
-
-Spring boot使用的各种示例，以最简单、最实用为标准
-
-
 - [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-eureka)：eureka server单机、双机、集群示例
+
+
 
 
 
