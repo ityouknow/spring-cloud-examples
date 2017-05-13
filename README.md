@@ -14,6 +14,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 
 - [springcloud(一)：大话Spring Cloud](http://www.ityouknow.com/springcloud/2017/05/01/simple-springcloud.html)
 - [springcloud(二)：注册中心Eureka](http://www.ityouknow.com/springcloud/2017/05/10/springcloud-eureka.html)
+- [springcloud(三)：服务提供与调用](http://www.ityouknow.com/springcloud/2017/05/12/service-provider-constomer.html)
 
 
 > 如果大家想了解关于springbcloud的其它方面应用，也可以以issues的形式反馈给我，我后续来完善。
