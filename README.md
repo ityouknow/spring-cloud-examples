@@ -19,7 +19,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [springcloud(四)：熔断器Hystrix](http://www.ityouknow.com/springcloud/2017/05/16/springcloud-hystrix.html)
 
 
-> 如果大家想了解关于springbcloud的其它方面应用，也可以以issues的形式反馈给我，我后续来完善。
+> 如果大家想了解关于springcloud的其它方面应用，也可以以issues的形式反馈给我，我后续来完善。
 
  
  关注公众号：纯洁的微笑，回复"springcloud"进群交流
