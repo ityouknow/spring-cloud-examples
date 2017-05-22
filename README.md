@@ -7,7 +7,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [service-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/service-producer-consumer)：利用eureka实现服务提供与调用demo
 - [spring-cloud-hystrix](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-hystrix)：Hystrix熔断的使用示例
 - [hystrix-dashboard-turbine](https://github.com/ityouknow/spring-cloud-starter/tree/master/hystrix-dashboard-turbine)：熔断监控Hystrix Dashboard和Turbine的示例
--[springcloud(六)：配置中心](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config)：配置中心服务端提供配置中心服务客户端去调用的例子
+- [spring-cloud-config)](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config)：配置中心服务端提供配置中心服务客户端去调用的例子
 
 
 
