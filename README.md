@@ -21,7 +21,10 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [springcloud(三)：服务提供与调用](http://www.ityouknow.com/springcloud/2017/05/12/service-provider-constomer.html)
 - [springcloud(四)：熔断器Hystrix](http://www.ityouknow.com/springcloud/2017/05/16/springcloud-hystrix.html)
 - [springcloud(五)：熔断监控Hystrix Dashboard和Turbine](http://www.ityouknow.com/springcloud/2017/05/18/hystrix-dashboard-turbine.html)
-- [springcloud(六)：配置中心](http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config.html)
+- [springcloud(六)：配置中心(一)](http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config.html)
+
+
+
 
 > 如果大家想了解关于springcloud的其它方面应用，也可以以issues的形式反馈给我，我后续来完善。
 
