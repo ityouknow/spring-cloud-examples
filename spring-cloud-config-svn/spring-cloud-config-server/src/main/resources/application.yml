@@ -1,0 +1,16 @@
+server:
+  port: 8001
+
+spring:
+  cloud:
+    config:
+      server:
+        svn:
+          uri: http://192.168.9.62/svn/repo/zhongxin/public/temp/config-repo
+          username: zhongxin
+          password: zhongxin
+        default-label: trunk
+  profiles:
+    active: subversion
+  application:
+    name: spring-cloud-config-server
