@@ -4,7 +4,7 @@ spring-cloud-starter
 Spring cloud使用的各种示例，以最简单、最实用为标准
 
 - [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-eureka)：eureka server单机、双机、集群示例
-- [eureka]-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/eureka]-producer-consumer)：利用eureka实现服务提供与调用
+- [eureka-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/eureka-producer-consumer)：利用eureka实现服务提供与调用
 - [spring-cloud-hystrix](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-hystrix)：Hystrix熔断的使用示例
 - [hystrix-dashboard-turbine](https://github.com/ityouknow/spring-cloud-starter/tree/master/hystrix-dashboard-turbine)：熔断监控Hystrix Dashboard和Turbine的示例
 - [spring-cloud-config-git](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-git)：配置中心git版本
@@ -19,7 +19,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 
 - [springcloud(一)：大话Spring Cloud](http://www.ityouknow.com/springcloud/2017/05/01/simple-springcloud.html)
 - [springcloud(二)：注册中心Eureka](http://www.ityouknow.com/springcloud/2017/05/10/springcloud-eureka.html)
-- [springcloud(三)：服务提供与调用](http://www.ityouknow.com/springcloud/2017/05/12/service-provider-constomer.html)
+- [springcloud(三)：服务提供与调用](http://www.ityouknow.com/springcloud/2017/05/12/eureka-provider-constomer.html)
 - [springcloud(四)：熔断器Hystrix](http://www.ityouknow.com/springcloud/2017/05/16/springcloud-hystrix.html)
 - [springcloud(五)：熔断监控Hystrix Dashboard和Turbine](http://www.ityouknow.com/springcloud/2017/05/18/hystrix-dashboard-turbine.html)
 - [springcloud(六)：配置中心git示例](http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config-git.html)
