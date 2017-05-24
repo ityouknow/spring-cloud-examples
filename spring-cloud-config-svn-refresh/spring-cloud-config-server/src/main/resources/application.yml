@@ -6,9 +6,9 @@ spring:
     config:
       server:
         svn:
-          uri: http://192.168.9.62/svn/repo/zhongxin/public/temp/config-repo
-          username: zhongxin
-          password: zhongxin
+          uri: http://192.168.0.6/svn/repo/config-repo
+          username: username
+          password: password
         default-label: trunk
   profiles:
     active: subversion
