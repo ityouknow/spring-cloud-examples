@@ -4,7 +4,7 @@ spring-cloud-starter
 Spring cloud使用的各种示例，以最简单、最实用为标准
 
 - [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-eureka)：eureka server单机、双机、集群示例
-- [service-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/service-producer-consumer)：利用eureka实现服务提供与调用demo
+- [eureka]-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/eureka]-producer-consumer)：利用eureka实现服务提供与调用
 - [spring-cloud-hystrix](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-hystrix)：Hystrix熔断的使用示例
 - [hystrix-dashboard-turbine](https://github.com/ityouknow/spring-cloud-starter/tree/master/hystrix-dashboard-turbine)：熔断监控Hystrix Dashboard和Turbine的示例
 - [spring-cloud-config-git](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-git)：配置中心git版本
