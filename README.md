@@ -8,7 +8,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [spring-cloud-hystrix](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-hystrix)：Hystrix熔断的使用示例
 - [hystrix-dashboard-turbine](https://github.com/ityouknow/spring-cloud-starter/tree/master/hystrix-dashboard-turbine)：熔断监控Hystrix Dashboard和Turbine的示例
 - [spring-cloud-config-git](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-git)：配置中心git版本
-- [spring-cloud-config-svn](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-svn)：配置中心svn版本，客户端refresh版本
+- [spring-cloud-config-svn-refresh](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-svn-refresh)：配置中心svn版本，客户端refresh版本
 
 
 
@@ -22,8 +22,9 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [springcloud(三)：服务提供与调用](http://www.ityouknow.com/springcloud/2017/05/12/service-provider-constomer.html)
 - [springcloud(四)：熔断器Hystrix](http://www.ityouknow.com/springcloud/2017/05/16/springcloud-hystrix.html)
 - [springcloud(五)：熔断监控Hystrix Dashboard和Turbine](http://www.ityouknow.com/springcloud/2017/05/18/hystrix-dashboard-turbine.html)
-- [springcloud(六)：配置中心(一)](http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config.html)
-- [springcloud(七)：配置中心(二)](http://www.ityouknow.com/springcloud/2017/05/23/springcloud-config2.html)
+- [springcloud(六)：配置中心git示例](http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config-git.html)
+- [springcloud(七)：配置中心svn示例和refresh](http://www.ityouknow.com/springcloud/2017/05/23/springcloud-config-svn-refresh.html)
+
 
 
 
