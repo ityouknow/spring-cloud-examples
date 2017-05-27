@@ -10,7 +10,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [spring-cloud-config-git](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-git)：配置中心git版本示例
 - [spring-cloud-config-svn-refresh](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-svn-refresh)：配置中心svn版本示例，客户端refresh版本示例
 - [spring-cloud-config-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-eureka)：配置中心服务化和高可用代码示例
-
+- [spring-cloud-config-eureka-bus](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-config-eureka-bus)：配置中心和消息总线示例（配置中心终结版）
 
 
 
@@ -26,6 +26,7 @@ Spring cloud使用的各种示例，以最简单、最实用为标准
 - [springcloud(六)：配置中心git示例](http://www.ityouknow.com/springcloud/2017/05/22/springcloud-config-git.html)
 - [springcloud(七)：配置中心svn示例和refresh](http://www.ityouknow.com/springcloud/2017/05/23/springcloud-config-svn-refresh.html)
 - [springcloud(八)：配置中心服务化和高可用](http://www.ityouknow.com/springcloud/2017/05/25/springcloud-config-eureka.html)
+- [springcloud(九)：配置中心和消息总线（配置中心终结版）](http://www.ityouknow.com/springcloud/2017/05/26/springcloud-config-eureka-bus.html)
 
 
 
