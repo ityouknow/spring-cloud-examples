@@ -37,7 +37,7 @@ Spring Cloud使用的各种示例，以最简单、最实用为标准
  
  关注公众号：纯洁的微笑，回复"springboot"进群交流
 
-![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
+![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
 
 
 
