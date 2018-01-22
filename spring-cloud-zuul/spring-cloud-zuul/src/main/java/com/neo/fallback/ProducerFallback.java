@@ -1,6 +1,5 @@
 package com.neo.fallback;
 
-import com.neo.filter.TokenFilter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cloud.netflix.zuul.filters.route.FallbackProvider;
@@ -48,7 +47,7 @@ public class ProducerFallback implements FallbackProvider {
 
             @Override
             public InputStream getBody() throws IOException {
-                return new ByteArrayInputStream("Producer service unavailable".getBytes());
+                return new ByteArrayInputStream("The service is unavailable.".getBytes());
             }
 
             @Override
