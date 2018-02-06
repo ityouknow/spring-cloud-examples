@@ -1,0 +1,33 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: admin-server
+  mail:
+    host: smtp.qq.com
+    username: xxx@qq.com
+    password: xxx
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+  boot:
+    admin:
+      notify:
+        mail:
+          from: xxx@qq.com
+          to: xxxx@qq.com
+# http://codecentric.github.io/spring-boot-admin/1.5.6/#mail-notifications
+eureka:
+  instance:
+    leaseRenewalIntervalInSeconds: 10
+  client:
+    registryFetchIntervalSeconds: 5
+    serviceUrl:
+      defaultZone: ${EUREKA_SERVICE_URL:http://localhost:8761}/eureka/
+
+management.security.enabled: false
+
