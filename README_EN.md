@@ -2,8 +2,9 @@
 
 Demo website：http://www.ityouknow.com/
 
-[Contribution](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[中文](README.md)
+[Spring Boot example code](https://github.com/ityouknow/spring-boot-examples)
 
+[Contribution](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[中文](README.md)
 
 Spring Cloud Examples, Use the simplest and most useful scene demo.
 
