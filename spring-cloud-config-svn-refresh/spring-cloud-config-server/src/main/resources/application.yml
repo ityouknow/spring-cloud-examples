@@ -6,9 +6,9 @@ spring:
     config:
       server:
         svn:
-          uri: http://192.168.0.6/svn/repo/config-repo
-          username: username
-          password: password
+          uri: http://127.0.0.1/svn/repo/config-repo
+          username: admin
+          password: 123456
         default-label: trunk
   profiles:
     active: subversion

@@ -1,0 +1,48 @@
+# maven ignore
+target/
+.mvn/
+mvnw
+mvnw.cmd
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# STS ignore
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# NetBeans ignore
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
