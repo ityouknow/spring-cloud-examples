@@ -4,6 +4,8 @@ Demo website：http://www.ityouknow.com/
 
 [Spring Boot学习示例代码](https://github.com/ityouknow/spring-boot-examples)
 
+[Spring Cloud 中文索引](https://github.com/ityouknow/awesome-spring-cloud)   
+
 [参与贡献](https://github.com/ityouknow/spring-cloud-examples/issues)&nbsp;| &nbsp;[English](README_EN.md)
 
 **[github地址](https://github.com/ityouknow/spring-cloud-examples)**
