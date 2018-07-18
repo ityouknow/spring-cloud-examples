@@ -21,3 +21,4 @@ Spring Cloud Examples, Use the simplest and most useful scene demo.
 - [spring-cloud-zuul](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-zuul)：Spring Cloud Zuul  Filter authentication rallback retry    
 - [spring-cloud-sleuth-zipkin](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-sleuth-zipkin)： Using Sleuth, Zipkin provides service tracking analysis of applications  
 - [spring-boot-admin-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-boot-admin-eureka)： Use Spring Boot Admin Monitor Spring Cloud Apps  
+- [spring-cloud-consul](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-consul)： spring cloud consul example  

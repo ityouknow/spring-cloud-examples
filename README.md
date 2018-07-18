@@ -27,6 +27,8 @@ Spring Cloud使用的各种示例，以最简单、最实用为标准
 - [spring-cloud-zuul](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-zuul)：Spring Cloud Zuul使用高级篇 Filter 鉴权 熔断 重试   
 - [spring-cloud-sleuth-zipkin](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-sleuth-zipkin)： 利用Sleuth、Zipkin对Spring Cloud应用进行服务追踪分析  
 - [spring-boot-admin-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-boot-admin-eureka)： 使用Spring Boot Admin 对Spring Cloud集群进行监控示例  
+- [spring-cloud-consul](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-consul)： Spring Cloud 使用 Consul 作为服务中心示例  
+
 
 学习系列：
 
