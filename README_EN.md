@@ -1,13 +1,10 @@
 # Spring Cloud Examples
 
-Demo website：http://www.ityouknow.com/
+This tutorial is about learning Spring Cloud via examples.
 
-[Spring Boot example code](https://github.com/ityouknow/spring-boot-examples)
-
-[Contribution](https://github.com/ityouknow/spring-boot-examples/issues)&nbsp;| &nbsp;[中文](README.md)
+[Spring Boot example code](https://github.com/ityouknow/spring-boot-examples) &nbsp;| &nbsp;[Contribution](https://github.com/ityouknow/spring-boot-examples/issues) &nbsp;| &nbsp; [中文](README.md)
 
 Spring Cloud Examples, Use the simplest and most useful scene demo.
-
 
 - [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-eureka)：eureka server single\Double\Cluster
 - [eureka-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/eureka-producer-consumer)：Implement an example of service producer and consumer using eureka 
