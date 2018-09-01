@@ -8,6 +8,8 @@ Spring Cloud 使用的各种示例，以最简单、最实用为标准
 
 Spring Cloud使用的各种示例，以最简单、最实用为标准
 
+**[Spring Boot 2.0 最全使用教程](https://github.com/ityouknow/spring-boot-leaning)**
+
 - [spring-cloud-eureka](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-eureka)：eureka server单机、双机、集群示例
 - [eureka-producer-consumer](https://github.com/ityouknow/spring-cloud-starter/tree/master/eureka-producer-consumer)：利用eureka实现服务提供与调用示例
 - [spring-cloud-hystrix](https://github.com/ityouknow/spring-cloud-starter/tree/master/spring-cloud-hystrix)：Hystrix熔断的使用示例
